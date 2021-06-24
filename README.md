@@ -9,7 +9,9 @@ https://wiki.documentfoundation.org/Marketing/Branding
 ## This version is only for symbols missing in the original font
 
 # Change log
-1. 0701 - cloned from http://dotcolon.net/font/vegur/
+3. 0703 - added
+[Đ](https://unicode-table.com/en/0110/)
+[đ](https://unicode-table.com/en/0111/)
 2. 0702 - added
 [Č](https://unicode-table.com/en/#010C)
 [č](https://unicode-table.com/en/#010D)
@@ -19,5 +21,7 @@ https://wiki.documentfoundation.org/Marketing/Branding
 [ž](https://unicode-table.com/en/#017E)
 [Ć](https://unicode-table.com/en/#0106)
 [ć](https://unicode-table.com/en/#0107)
+1. 0701 - cloned from http://dotcolon.net/font/vegur/
+
 
 Software used for creating missing symbols: [FontForge](https://fontforge.org)
